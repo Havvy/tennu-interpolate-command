@@ -1,0 +1,22 @@
+{
+  "name": "tennu-interpolate-command",
+  "version": "1.0.0",
+  "description": "Tennu plugin for allowing commands to be interpolated into privmsgs",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Havvy/tennu-interpolate-command.git"
+  },
+  "keywords": [
+    "tennu-plugin"
+  ],
+  "author": "Ryan Scheel (Havvy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Havvy/tennu-interpolate-command/issues"
+  },
+  "homepage": "https://github.com/Havvy/tennu-interpolate-command#readme"
+}
